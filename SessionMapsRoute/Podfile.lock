@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (4.8.2)
+  - HEREMaps (3.11.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - HEREMaps
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - HEREMaps
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  HEREMaps: 842884a0feb0b352fe291aafab60eb289dfa1804
+
+PODFILE CHECKSUM: 406e21714385f92e82a5f9840449d279f25051b1
+
+COCOAPODS: 1.7.2
