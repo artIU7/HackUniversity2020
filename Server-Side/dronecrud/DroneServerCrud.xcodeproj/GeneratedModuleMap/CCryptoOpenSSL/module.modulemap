@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/brazilec22/Documents/Hack/dronecrud/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
+    export *
+}
